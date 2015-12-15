@@ -1,0 +1,26 @@
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+c:\users\chrisb\documents\visual studio 11\Projects\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.baml
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\MainWindow.g.cs
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\App.g.cs
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator_MarkupCompile.cache
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.g.resources
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+D:\C#\asynchronous\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
