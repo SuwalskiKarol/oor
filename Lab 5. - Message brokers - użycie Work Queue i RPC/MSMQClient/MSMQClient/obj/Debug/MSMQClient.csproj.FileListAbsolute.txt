@@ -1,0 +1,13 @@
+D:\C#\mq\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe.config
+D:\C#\mq\MSMQClient\MSMQClient\bin\Debug\MSMQClient.exe
+D:\C#\mq\MSMQClient\MSMQClient\bin\Debug\MSMQClient.pdb
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.csprojResolveAssemblyReference.cache
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MainWindow.g.cs
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\App.g.cs
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient_MarkupCompile.cache
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MainWindow.baml
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.g.resources
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.Properties.Resources.resources
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.csproj.GenerateResource.Cache
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.exe
+D:\C#\mq\MSMQClient\MSMQClient\obj\Debug\MSMQClient.pdb
