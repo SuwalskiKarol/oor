@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "plinq", "plinq\plinq.csproj", "{213E0645-C66E-4962-B36F-1455F8E094A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "add", "add\add.csproj", "{AC1D91CE-B696-457A-8B4A-F44798AB0BDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "example", "example\example.csproj", "{3BB32AD9-F85A-4923-A914-5EC436473BCF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "event", "event\event.csproj", "{4927313F-B204-4338-9D2B-5264B28C51C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{213E0645-C66E-4962-B36F-1455F8E094A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{213E0645-C66E-4962-B36F-1455F8E094A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{213E0645-C66E-4962-B36F-1455F8E094A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{213E0645-C66E-4962-B36F-1455F8E094A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1D91CE-B696-457A-8B4A-F44798AB0BDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1D91CE-B696-457A-8B4A-F44798AB0BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1D91CE-B696-457A-8B4A-F44798AB0BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1D91CE-B696-457A-8B4A-F44798AB0BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BB32AD9-F85A-4923-A914-5EC436473BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BB32AD9-F85A-4923-A914-5EC436473BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BB32AD9-F85A-4923-A914-5EC436473BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BB32AD9-F85A-4923-A914-5EC436473BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4927313F-B204-4338-9D2B-5264B28C51C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4927313F-B204-4338-9D2B-5264B28C51C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4927313F-B204-4338-9D2B-5264B28C51C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4927313F-B204-4338-9D2B-5264B28C51C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

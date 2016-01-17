@@ -1,0 +1,6 @@
+D:\C#\plinq\plinq\add\bin\Debug\add.exe.config
+D:\C#\plinq\plinq\add\bin\Debug\add.exe
+D:\C#\plinq\plinq\add\bin\Debug\add.pdb
+D:\C#\plinq\plinq\add\obj\Debug\add.csprojResolveAssemblyReference.cache
+D:\C#\plinq\plinq\add\obj\Debug\add.exe
+D:\C#\plinq\plinq\add\obj\Debug\add.pdb
